@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7dbc95044ab809e4ea8755fc0b626f48
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: League Gothic
+  fontNames:
+  - League Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 87af4d809e4305f4b87ac4e2c9b475bf, type: 3}
+  - {fileID: 12800000, guid: 3176de533f27f4240a255d60f4f5f36e, type: 3}
+  - {fileID: 12800000, guid: 75be263aae589a149bc886f10674b2c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
